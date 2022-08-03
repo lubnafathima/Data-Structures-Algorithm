@@ -4,15 +4,13 @@ public class SimpleInterest {
     public static void main(String[] args) {
         //Write a program to input principal, time, and rate (P, T, R) from the user and find Simple Interest.
         //-------------------------------
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter Principal: ");
-        Scanner principal = new Scanner(System.in);
-        float P = principal.nextFloat();
+        float P = in.nextFloat();
         System.out.print("Enter Time: ");
-        Scanner time = new Scanner(System.in);
-        float t = time.nextFloat();
+        float t = in.nextFloat();
         System.out.print("Enter Rate: ");
-        Scanner rate = new Scanner(System.in);
-        float r = rate.nextFloat();
+        float r = in.nextFloat();
         float si = P * (1 + r * t);
         System.out.println("The Simple interest is " + si);
     }
