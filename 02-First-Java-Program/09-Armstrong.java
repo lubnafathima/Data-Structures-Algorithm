@@ -7,12 +7,11 @@ public Armstrong {
         //1*1*1 + 5*5*5 + 3*3*3 (add them)
         //1 + 125 + 27 = 153 (the result is number itself, Hence its an Armstrong Number)
         //-------------------------------
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter First Input: ");
-        Scanner firstIp = new Scanner(System.in);
-        int first = firstIp.nextInt();
+        int first = in.nextInt();
         System.out.print("Enter Second Input: ");
-        Scanner secondIp = new Scanner(System.in);
-        int second = secondIp.nextInt();
+        int second = in.nextInt();
          for(int i = first; i <= second; i++) {
              int value = i;
              int sum = 0;
