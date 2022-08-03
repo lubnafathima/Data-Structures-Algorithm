@@ -4,12 +4,11 @@ public LargestNo {
     public static void main(String[] args) {
         //Take 2 numbers as input and print the largest number.
         //-------------------------------
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter First Input: ");
-        Scanner oneIp = new Scanner(System.in);
-        int one = oneIp.nextInt();
+        int one = in.nextInt();
         System.out.print("Enter Second Input: ");
-        Scanner twoIp = new Scanner(System.in);
-        int two = twoIp.nextInt();
+        int two = in.nextInt();
         if (one > two) {
             System.out.println(one + " is greater than " + two);
         } else {
