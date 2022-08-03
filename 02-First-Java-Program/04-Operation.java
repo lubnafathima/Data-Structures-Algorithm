@@ -4,15 +4,13 @@ public class Operation {
     public static void main(String[] args) {
         //Take in two numbers and an operator (+, -, *, /) and calculate the value. (Use if conditions)
         //-------------------------------
+        Scanner in = new Scanner(System.in);
         System.out.print("Enter First Operand: ");
-        Scanner operandOneIp = new Scanner(System.in);
-        int operandOne = operandOneIp.nextInt();
+        int operandOne = in.nextInt();
         System.out.print("Enter Second Operand: ");
-        Scanner operandTwoIp = new Scanner(System.in);
-        int operandTwo = operandTwoIp.nextInt();
+        int operandTwo = in.nextInt();
         System.out.print("Enter the Operator(+, -, *, /): ");
-        Scanner operatorIp = new Scanner(System.in);
-        String operator = operatorIp.next();
+        String operator = in.next();
         int operation;
         if (operator.equals("+")) {
             operation = operandOne + operandTwo;
