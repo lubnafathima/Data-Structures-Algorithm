@@ -11,6 +11,11 @@ This is my second attempt in learning DSA
 -> Once you are done or having any doubts, You can check my solution for that as well  
 
 [PS: This would be the solution i came with, there would always be a better alternate! Suggestions are welcomed :) ]  
+
+## Resource I follow:
+- Kunal Kushwaha's **Java + DSA + Interview Preparation Course**  
+- [Click here to view assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments)  
   
-Also, If you wanna stay consistent in any of your learning, I vouch for public learning   
-I took up the challenge of #100daysofcode in twitter, [Do check it out](https://twitter.com/MsCoder1/status/1526983352271523840?s=20&t=PTEAJHgvpPlvZSgmDNN9Iw)
+## My #100DaysOfCode Challenge:  
+If you wanna stay consistent in any of your learning, I vouch for public learning   
+I took up the challenge of #100daysofcode in twitter, [Do check it out](https://twitter.com/MsCoder1/status/1526983352271523840?s=20&t=PTEAJHgvpPlvZSgmDNN9Iw)  
