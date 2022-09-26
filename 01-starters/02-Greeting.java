@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Greeting {
     public static void main(String[] args) {
-//        Upgrade: When ever user enters 1, they get a greeting message and 0 to stop
+//        Upgrade: Whenever user enters 1, they get a greeting message and 0 to stop execution
         System.out.println("1. Greeting message");
         System.out.println("0. Stop");
         while(true) {
