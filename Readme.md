@@ -8,9 +8,9 @@ This is my second attempt in learning DSA
 - This repo contains :  
 -> seperate folder for each concept  
 -> In that, You will find a file containing all questions  
--> Once you are done or having any doubts, You can check my solution for that as well  
+-> Once you are done or having any doubts, You can check my solution as well  
 
-[PS: This would be the solution i came with, there would always be a better alternate! Suggestions are welcomed :) ]  
+[PS: This was the solution i came up with, there will always be a better alternate! Suggestions are welcomed :) ]  
 
 ## Resource I follow:
 - Kunal Kushwaha's **Java + DSA + Interview Preparation Course**  
